@@ -127,12 +127,19 @@
 
 ---
 
+## 📈 Weekly GitHub Metrics
+
+<p align="center">
+  <img src="generated/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkhilRaawat&show_icons=true&theme=github_dark" alt="stats" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkhilRaawat&theme=dark" alt="streak" height="200"/>
 </p>
+
 
 ---
 
