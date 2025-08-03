@@ -127,11 +127,7 @@
 
 ---
 
-## 📈 Weekly GitHub Metrics
 
-<p align="center">
-  <img src="generated/github-metrics.svg" alt="GitHub Metrics">
-</p>
 
 ## 📊 GitHub Stats
 
