@@ -7,15 +7,12 @@
   💬 Always open to collaboration and technical discussions!
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilraawat&label=Profile%20views&color=0e75b6&style=flat" alt="akhilraawat" />
-</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- ⚡ **[P2P Share](https://github.com/AkhilRaawat)**  
+- ⚡ **[P2P Share](https://github.com/AkhilRaawat/P2P-Share)**  
   Peer-to-peer file sharing system built using Java Sockets, Streams, and Multithreading.
 
 - 🎓 **[SkillNest LMS](https://www.skillnest-lms.tech)**  
@@ -24,7 +21,7 @@
 - 📄 **[Talk to PDF](https://talktopdfakhil.streamlit.app/)**  
   A Streamlit-based app where users can chat with PDFs using LLMs and natural language queries.
 
-- 🏡 **[Real Estate Price Predictor](https://github.com/AkhilRaawat)**  
+- 🏡 **[Real Estate Price Predictor](https://github.com/AkhilRaawat/Real-Estate-Price-Prediction)**  
   Machine learning-based system that predicts property prices with Flask API and trained regression models.
 
 📄 [📎 My Resume](https://drive.google.com/file/d/167FYlsu8YfhZa6hDmGFlWG3dzELQx5kw/view?usp=sharing)
