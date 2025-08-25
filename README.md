@@ -24,7 +24,7 @@
 - 🏡 **[Real Estate Price Predictor](https://github.com/AkhilRaawat/Real-Estate-Price-Prediction)**  
   Machine learning-based system that predicts property prices with Flask API and trained regression models.
 
-📄 [📎 My Resume](https://drive.google.com/file/d/167FYlsu8YfhZa6hDmGFlWG3dzELQx5kw/view?usp=sharing)
+📄 [📎 My Resume](https://drive.google.com/file/d/1Y9n8QSm3Pry5SSGUTUwyX3krT2qyz2Eg/view?usp=sharing)
 
 ---
 
